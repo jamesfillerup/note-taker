@@ -5,6 +5,8 @@
 
 The purpose of this project is so that the user can input notes and save notes.
 
+![](img.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
