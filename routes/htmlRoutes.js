@@ -6,8 +6,10 @@ const router = require('express').Router();
         res.sendFile(path.join(__dirname, '../public/notes.html'));
     });
 
-    router.get('*', (req, res) => {
+    router.get('/index', (req, res) => {
         res.sendFile(path.join(__dirname, '../public/index.html'));
     })
 
 module.exports = router;
+
+
