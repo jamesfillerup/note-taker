@@ -10,7 +10,6 @@ The purpose of this project is so that the user can input notes and save notes.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Function](#function)
-- [Credits](#credits)
 - [License](#license)
 
 
@@ -23,14 +22,16 @@ Please see video link for a walk through on how to clone it.
 [Clone to your computer](https://drive.google.com/file/d/15ogCY3Q-JLWhteoSiIoXLkhtK4Z0-mfz/view?usp=sharing "Click Me!")
 <br><br>
 
-Once cloned you can download (ENTER INFO DEPENCENCIS HERE)
+Once cloned you can download the following:
+* `npm i express`
+* `npm i mysql`
+* `npm i uniqid`
 
 ## Usage
 
-click on the plus symbol then add the note you would like to make then click save. To delete press the delete button next to the task.
+After you have cloned the repo to your computer and downloaded its dependencies you can run `npm start`. Then open up in your browser `localhost:3001` and then it is ready to go.
 
-## Credits
-
+Click on the plus symbol then add the note you would like to make then click the save icon. To delete press the delete button next to the note.
 
 
 ## License
